@@ -100,10 +100,9 @@ img {
     object-fit: cover;
 }
 
-/* =======================                MEDIA QUERIES                ==================================  */
-/* =======================                MEDUIM RANGE DEVICE                ==================================  */
+/* =======================                MEDIA QUERIE MEDUIM RANGE DEVICE                ==================================  */
 @media screen and (max-width:1024px){
-    container
+    .container
     {
         width:var(--container-width-md);
     }
@@ -113,9 +112,9 @@ img {
     }
 }
 
-/* =======================                SMALL RANGE DEVICE                ==================================  */
+/* =======================                 MEDIA QUERIE SMALL RANGE DEVICE                ==================================  */
 @media screen and (max-width:600){
-    container
+    .container
     {
         width:var(--container-width-ms);
     }
