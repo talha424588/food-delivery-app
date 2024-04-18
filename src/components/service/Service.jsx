@@ -2,7 +2,7 @@ function Service()
 {
     return (
         <>
-        <h1>Service</h1>
+        <section id="services">Service</section>
         </>
     )
 }

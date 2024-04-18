@@ -2,7 +2,7 @@ function Experience()
 {
     return (
         <>
-        <h1>Expericen</h1>
+        <section id="experience">Expericen</section>
         </>
     )
 }

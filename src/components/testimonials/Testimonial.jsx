@@ -2,7 +2,7 @@ function Testimonial()
 {
     return (
         <>
-        <h1>Testimonial</h1>
+        <secton id="testimonials">Testimonial</secton>
         </>
     )
 }
