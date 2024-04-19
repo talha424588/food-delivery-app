@@ -65,7 +65,7 @@ function Experience() {
               <article className="experience_details">
                 <BsFillPatchCheckFill className="experience_details_icon" />
                 <div>
-                  <h4>Node JS</h4>
+                  <h4>Laravel</h4>
                   <small className="text-light">Experienced</small>
                 </div>
               </article>
@@ -73,7 +73,7 @@ function Experience() {
               <article className="experience_details">
                 <BsFillPatchCheckFill className='experience_details_icon' />
                 <div>
-                  <h4>MongoDB</h4>
+                  <h4>Symfony</h4>
                   <small className="text-light">Experienced</small>
                 </div>
               </article>
