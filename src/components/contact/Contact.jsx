@@ -14,7 +14,7 @@ function Contact() {
                 <MdOutlineMailOutline className="contact_option-icon"/>
                 <h4>Email</h4>
                 <h5>dummy@gmail.com</h5>
-                <a href="mailto:dummy@gmail.com" target="_blank">Send a message</a>
+                <a href="mailto:tal424588@gmail.com" target="_blank">Send a message</a>
             </article>
             <article className="contact_option">
             <RiMessengerLine className="contact_option-icon"/>
@@ -26,7 +26,7 @@ function Contact() {
                 <IoLogoWhatsapp className="contact_option-icon"/>
                 <h4>Whatapp</h4>
                 <h5>+92 203 4765927</h5>
-                <a href="https://api.whatsapp.com/send?phone+03024765927" target="_blank">Send a message</a>
+                <a href="https://api.whatsapp.com/send?phone=923024765927" target="_blank">Send a message</a>
             </article>
           </div>
           <form action="">
